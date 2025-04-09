@@ -1,1 +1,1 @@
-# an minimum working example of useImperativeHandle in React TypeScript
+an minimum working example o useImperativeHandle in React TypeScript
